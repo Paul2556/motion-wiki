@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "plugins": {
+    "date-footer": {
+      "source": "./local-plugins/date-footer",
+      "resolved": "/Users/paul/Personal/Sandbox/motion-wiki/local-plugins/date-footer",
+      "commit": "local",
+      "installedAt": "2026-08-17T13:05:06.667Z"
+    }
+  }
+}

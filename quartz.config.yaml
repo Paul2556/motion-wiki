@@ -16,17 +16,10 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      # Same typeface as the Motion app itself (src/index.css / tailwind.config.js) - kept
-      # consistent between the app and this wiki rather than picking a second brand font.
       header: Inter
       body: Inter
       code: IBM Plex Mono
     colors:
-      # Motion's brand identity (.claude/brandIdentity.md): black-and-white primary palette
-      # (professionalism, diplomacy, structure) with one brown accent family (warmth, community
-      # - the human side of MUN). Motion's own app achieves this via a filter:invert(1) trick
-      # that Quartz has no equivalent of, so these are independently-tuned light/dark values
-      # that land on the same brown, not literal copies of Motion's CSS custom properties.
       lightMode:
         light: "#f4f4f0"
         lightgray: "#e3e2dc"
@@ -263,6 +256,13 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
+  - source: ./local-plugins/date-footer
+    enabled: true
+    options: {}
+    order: 50
+    layout:
+      position: afterBody
+      priority: 50
 layout:
   groups:
     toolbar:
