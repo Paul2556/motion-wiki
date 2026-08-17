@@ -37,4 +37,4 @@ each term links to the page that actually explains it in context.
 
 ---
 
-Back to [[index|the delegate track overview]].
+Back to [[overview|the delegate track overview]].

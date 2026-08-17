@@ -17,7 +17,7 @@ procedure stops getting in the way of debate.
 
 Start here if you're preparing to represent a country in committee: what a motion is, how to
 request one, how voting actually works, and the vocabulary you'll hear on your first day that
-nobody explains out loud. → [[delegates/index|Start the delegate track]]
+nobody explains out loud. → [[delegates/overview|Start the delegate track]]
 
 ## For chairs
 
