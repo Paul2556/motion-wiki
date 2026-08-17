@@ -3,7 +3,7 @@ title: Speeches and the GSL
 ---
 
 The General Speakers List (GSL) is committee's default state. Whenever nothing else has been
-moved into (a [[caucusing|caucus]], a vote, anything else), debate runs through the GSL.
+moved into (a [[caucusing|caucus]], a vote, anything else), debate runs through the GSL. This splits into 2 main GSLs as I would call it. Neutral GSL and active GSL, when in neutral GSL, delegates are usually raising placards to [[motions|motion]] for different topics, while in active GSL the mechanics is said below.
 
 ## How the list works
 

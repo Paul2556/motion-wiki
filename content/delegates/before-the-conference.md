@@ -26,9 +26,9 @@ resolutions or statements on the topic.
 
 ## Position papers
 
-A position paper is a short written statement of your country's stance, submitted before the
+A position paper is normally a written essay of your country's stance, proposed solution, and also the general outline of your topic, submitted before the
 conference. Many conferences use it as an eligibility requirement for awards, and chairs often
-read them ahead of time to gauge who's prepared.
+read them ahead of time to gauge who's prepared. The position paper is a huge part of deciding who's going to get awards. By using AI or even having suspicion of AI in most conferences would gie you a huge setback from the chair(s)' opinion(s). 
 
 There's no single format every conference uses, but a common structure covers:
 
@@ -40,12 +40,13 @@ There's no single format every conference uses, but a common structure covers:
 
 A few things that hold across most conferences regardless of exact format:
 
-- Write in **third person**: "this delegation," "the nation of X," never "I" or "we."
+- Write in **third person**: "the delegation of x," "x" (depending on context this could be frowned upon) never "I" or "we."
 - Aim for analysis over exhaustive fact-dumping. A page of genuine reasoning beats three pages of
   restated background-guide content.
 - Crisis committees are often the exception. Some frame the position paper as an in-character
   letter or philosophy statement instead of the standard structure above. Check your conference's
   guidance if you're in one.
+- Also, one last *very important* thing, **CITE YOUR SOURCES**.
 
 Check your conference's own instructions for exact length and format. Some ask for roughly a
 page per topic, others allow more, and that number is one of the things that varies most between

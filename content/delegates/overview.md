@@ -16,10 +16,11 @@ these pages call it out explicitly, but your conference's own delegate packet al
 3. [[speeches-and-the-gsl|Speeches and the GSL]]: the General Speakers List, yielding time
 4. [[motions|Motions]]: moderated and unmoderated caucuses, and the rest
 5. [[points|Points]]: order, personal privilege, inquiry, information
-6. [[caucusing|Caucusing]]: what actually happens in a caucus
-7. [[working-papers-and-resolutions|Working papers and resolutions]]: from idea to draft
-8. [[amendments|Amendments]]: friendly and unfriendly
-9. [[voting-procedure|Voting procedure]]: majorities, roll call votes, abstentions
-10. [[glossary|Glossary]]: quick lookup for anything you forget mid-committee
+6. [[motion-list|Motion list]]: the full reference table of motions and points, and vote thresholds
+7. [[caucusing|Caucusing]]: what actually happens in a caucus
+8. [[working-papers-and-resolutions|Working papers and resolutions]]: from idea to draft
+9. [[amendments|Amendments]]: friendly and unfriendly
+10. [[voting-procedure|Voting procedure]]: majorities, roll call votes, abstentions
+11. [[glossary|Glossary]]: quick lookup for anything you forget mid-committee
 
 See also: [[../index|the wiki homepage]] for the chair track.

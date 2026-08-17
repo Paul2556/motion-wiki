@@ -10,6 +10,10 @@ Worth knowing up front: motions, seconding, and yielding don't exist in the real
 Assembly. They're Model UN's own parliamentary scaffolding, built to give a room full of students
 a fair, orderly way to run debate, not an attempt at UN authenticity for its own sake.
 
+## Motion to extend
+
+Normally, this is only said before the opening speech starts to increase the allocated time for opening speeches (usually 1 minute). To lets say, 90 seconds or 75 seconds. This is useful when your opening speech is too long (hopefully it is since 1 minute is not enough to cover most topics) and is commonly used in most sessions. 
+
 ## Moderated caucus
 
 Chair-controlled and structured. The GSL is suspended, and the chair calls on delegates one at a
@@ -56,10 +60,12 @@ phrase means opposite things.
 ## When multiple motions are on the floor
 
 Which motion the chair takes first when several are raised at once isn't standardized. A common
-pattern is that unmoderated caucus motions get voted on before moderated ones regardless of
-proposed time, and that a motion to close debate outranks nearly everything except adjournment,
+pattern is that the most disruptive motion gets voted on first. ( and unmoderated caucus > consultation of the whole > moderated caucus > GSL with GSL being the least disruptive and unmoderated caucus being the most disruptive. If there are multiple same motions the one with the longest time is considered the most disruptive of the same time ),
 but exact precedence rules genuinely differ by conference.
 
 ---
+
+See [[motion-list|the motion list]] for the full set of motions across conferences, with typical
+names and vote thresholds.
 
 Next: [[points|Points]]
