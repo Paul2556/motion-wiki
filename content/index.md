@@ -5,13 +5,13 @@ title: Home
 # From motion to resolution.
 
 A learning resource for Model United Nations, built by delegates and designed for chairs. This
-isn't a manual for the [Motion](https://motionmun.com) app on its own — it's meant to explain the
+isn't a manual for the [Motion](https://motionmun.com) app on its own. It's meant to explain the
 procedure itself, so a page here reads the same way whether you're new to MUN entirely or just
 new to running committee from the chair's seat.
 
-The goal isn't to change MUN. It's to make the parts of it that are genuinely confusing —
-motions, points, majority thresholds, how a caucus actually works — clear enough that procedure
-stops getting in the way of debate.
+The goal isn't to change MUN. It's to make the parts of it that are genuinely confusing, like
+motions, points, majority thresholds, and how a caucus actually works, clear enough that
+procedure stops getting in the way of debate.
 
 ## For delegates
 
