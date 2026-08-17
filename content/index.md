@@ -17,12 +17,12 @@ stops getting in the way of debate.
 
 Start here if you're preparing to represent a country in committee: what a motion is, how to
 request one, how voting actually works, and the vocabulary you'll hear on your first day that
-nobody explains out loud.
+nobody explains out loud. → [[delegates/index|Start the delegate track]]
 
 ## For chairs
 
 Start here if you're running the room: procedural rulings, keeping debate moving, and the
-judgment calls that the written Rules of Procedure don't spell out for you.
+judgment calls that the written Rules of Procedure don't spell out for you. *(Coming soon.)*
 
 ---
 
