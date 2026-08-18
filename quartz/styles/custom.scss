@@ -1,3 +1,9 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+.credits-logo {
+  font-size: 4rem;
+  text-align: center;
+  margin: 1rem 0 1.5rem 0;
+}
