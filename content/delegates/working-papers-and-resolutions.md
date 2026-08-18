@@ -46,6 +46,4 @@ threshold system most conferences use to gate introduction is a Model UN additio
 draft resolution is typically tabled by one lead sponsor after informal consultation with other
 member states, without a fixed numeric co-sponsor requirement.
 
----
-
 Next: [[amendments|Amendments]]

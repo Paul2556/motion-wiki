@@ -88,6 +88,4 @@ A few spots are worth a second look before you assume you know what's standard:
   written rule at some conferences and pure convention at others. Don't assume your home
   conference's order travels with you.
 
----
-
 Back to [[motions|Motions]], or on to [[caucusing|Caucusing]].

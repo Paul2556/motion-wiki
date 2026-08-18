@@ -35,6 +35,4 @@ each term links to the page that actually explains it in context.
 | Two-thirds majority | A higher bar reserved for certain substantive decisions | [[voting-procedure\|Voting procedure]] |
 | Roll call vote | A recorded vote where each delegation states its position aloud | [[voting-procedure\|Voting procedure]] |
 
----
-
 Back to [[overview|the delegate track overview]].

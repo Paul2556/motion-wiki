@@ -42,6 +42,4 @@ Some conferences merge parliamentary inquiry and point of information under a si
 "point of information to the chair" for what others call parliamentary inquiry. If a term feels
 like it's being used slightly differently than described here, that's likely why.
 
----
-
 Next: [[motion-list|Motion list]]

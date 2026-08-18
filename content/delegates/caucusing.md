@@ -31,6 +31,4 @@ If you're new to committee, the practical advice most guides converge on is the 
 your first unmoderated caucus watching from your seat. This is the part of committee where
 relationships and blocs form, and it happens fast.
 
----
-
 Next: [[working-papers-and-resolutions|Working papers and resolutions]]

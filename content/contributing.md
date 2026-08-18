@@ -31,6 +31,4 @@ For anything bigger than a one-page fix:
 
 If you're not comfortable with GitHub, opening an [issue](https://github.com/Paul2556/motion-wiki/issues) describing the problem works just as well, someone else can turn it into an edit.
 
----
-
 *Motion / 2026*

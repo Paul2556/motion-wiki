@@ -52,6 +52,4 @@ Check your conference's own instructions for exact length and format. Some ask f
 page per topic, others allow more, and that number is one of the things that varies most between
 conferences.
 
----
-
 Next: [[committee-basics|Committee basics]]

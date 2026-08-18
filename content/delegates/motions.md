@@ -63,8 +63,6 @@ Which motion the chair takes first when several are raised at once isn't standar
 pattern is that the most disruptive motion gets voted on first. ( and unmoderated caucus > consultation of the whole > moderated caucus > GSL with GSL being the least disruptive and unmoderated caucus being the most disruptive. If there are multiple same motions the one with the longest time is considered the most disruptive of the same time ),
 but exact precedence rules genuinely differ by conference.
 
----
-
 See [[motion-list|the motion list]] for the full set of motions across conferences, with typical
 names and vote thresholds.
 

@@ -44,6 +44,4 @@ Real UN cross-check: the actual General Assembly defaults to an unrecorded show-
 and a roll call only happens if specifically requested. Majorities there are calculated only from
 members "present and voting," the same abstention-excluded logic MUN inherited.
 
----
-
 Next: [[glossary|Glossary]]

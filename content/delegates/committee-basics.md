@@ -34,6 +34,4 @@ that follows:
 **Roll call → set the agenda → formal debate ([[speeches-and-the-gsl|the GSL]]), interspersed with
 [[caucusing|caucuses]] and other [[motions|motions]] → [[working-papers-and-resolutions|draft resolution]] introduction → [[amendments|amendments]] → [[voting-procedure|voting]] → adjournment.**
 
----
-
 Next: [[speeches-and-the-gsl|Speeches and the GSL]]

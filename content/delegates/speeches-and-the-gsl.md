@@ -31,6 +31,4 @@ you yield is itself a small decision:
 Yielding to questions is a genuinely useful tool if you want your position tested and sharpened in
 front of the room, but it also means you need to actually be ready to defend what you said.
 
----
-
 Next: [[motions|Motions]]

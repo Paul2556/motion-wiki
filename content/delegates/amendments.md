@@ -33,6 +33,4 @@ Friendly amendments only make sense as a category where a resolution has a forma
 sponsor/signatory system in the first place. A conference without that distinction handles
 proposed changes differently.
 
----
-
 Next: [[voting-procedure|Voting procedure]]
