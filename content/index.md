@@ -24,4 +24,6 @@ nobody explains out loud. → [[delegates/overview|Start the delegate track]]
 Start here if you're running the room: procedural rulings, keeping debate moving, and the
 judgment calls that the written Rules of Procedure don't spell out for you. *(Coming soon.)*
 
+---
+
 *Motion / 2026*

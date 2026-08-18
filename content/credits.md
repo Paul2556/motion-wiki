@@ -31,4 +31,6 @@ Colors, typography, and branding here were matched to [Motion](https://motionmun
 committee management app this wiki is the companion resource for. They're built with different
 tools and serve different purposes, but they're meant to feel like the same project.
 
+---
+
 *Motion / 2026*
