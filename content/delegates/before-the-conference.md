@@ -20,8 +20,7 @@ Most guides break preparation into four areas:
   who your natural allies and opponents are before caucusing starts.
 
 Useful starting points: the conference's own background guide (always start there, since it's
-usually written specifically to frame the topic the way that committee will debate it), the CIA World
-Factbook for country basics, your country's UN Permanent Mission materials, and past UN
+usually written specifically to frame the topic the way that committee will debate it), your country's UN Permanent Mission materials, and past UN
 resolutions or statements on the topic.
 
 ## Position papers
