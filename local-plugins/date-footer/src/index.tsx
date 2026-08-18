@@ -48,9 +48,7 @@ export const DateFooter: QuartzComponentConstructor = () => {
 
   Component.css = `
     .motion-page-footer {
-      margin-top: 2rem;
-      padding-top: 1rem;
-      border-top: 1px solid var(--lightgray);
+      margin-top: 1rem;
       font-size: 0.8rem;
       color: var(--darkgray);
     }
