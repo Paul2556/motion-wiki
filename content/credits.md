@@ -15,9 +15,6 @@ be a wiki to write content for.
 - **[@quartz-community](https://github.com/orgs/quartz-community/repositories)** plugins – the
   search, graph view, dark mode, table of contents, and most of the other functionality on this
   site come from Quartz's community plugin ecosystem, not from anything custom-written here.
-- **[Preact](https://preactjs.com/)** – the rendering library Quartz's components are built on.
-- **[Inter](https://rsms.me/inter/)** – the typeface used across the whole site.
-- **[Vercel](https://vercel.com/)** – hosting and deployment.
 - **[GitHub](https://github.com/)** – source hosting and the way anyone can
   [[contributing|contribute]] back to this wiki.
 

@@ -1,7 +1,6 @@
 ---
 title: Contributing
 ---
-
 This wiki is open to anyone who wants to improve it: delegates, chairs, and anyone who's spent
 enough time in committee to know where the existing pages get something wrong, out of date, or
 just unclear.
@@ -20,16 +19,17 @@ just unclear.
 
 ## How to contribute
 
-The wiki's content lives in a public GitHub repository. To suggest a change:
+The wiki's content lives in a public GitHub repository. The fastest way in: every page has an
+"Edit this page" link at the bottom that opens GitHub's own editor already pointed at that exact
+file, no cloning, no local setup. Make your change and GitHub walks you through opening a pull
+request automatically.
 
+For anything bigger than a one-page fix:
 1. Open the [motion-wiki repository](https://github.com/Paul2556/motion-wiki) on GitHub.
-2. Edit a page directly (GitHub's web editor works fine for small changes) or fork the repo for
-   anything larger.
+2. Fork it, and make your changes locally or in GitHub's editor.
 3. Open a pull request describing what you changed and why.
 
-If you're not comfortable with GitHub, opening an
-[issue](https://github.com/Paul2556/motion-wiki/issues) describing the problem works just as well,
-someone else can turn it into an edit.
+If you're not comfortable with GitHub, opening an [issue](https://github.com/Paul2556/motion-wiki/issues) describing the problem works just as well, someone else can turn it into an edit.
 
 ---
 
