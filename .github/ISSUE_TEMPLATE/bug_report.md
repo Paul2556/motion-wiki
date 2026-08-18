@@ -1,40 +1,17 @@
 ---
-name: Bug report
-about: Something about Quartz isn't working the way you expect
+name: Page problem
+about: A page states something wrong, outdated, or unclear
 title: ""
 labels: bug
 assignees: ""
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Which page**
+Link to the page, e.g. https://wiki.motionmun.com/delegates/motions
 
-**To Reproduce**
-Steps to reproduce the behavior:
+**What's wrong**
+A clear description of the error, the outdated info, or the confusing part.
 
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
-
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
-**Screenshots and Source**
-If applicable, add screenshots to help explain your problem.
-
-You can help speed up fixing the problem by either
-
-1. providing a simple reproduction
-2. linking to your Quartz repository where the problem can be observed
-
-**Desktop (please complete the following information):**
-
-- Quartz Version: [e.g. v4.1.2]
-- `node` Version: [e.g. v18.16]
-- `npm` version: [e.g. v10.1.0]
-- OS: [e.g. iOS]
-- Browser [e.g. chrome, safari]
-
-**Additional context**
-Add any other context about the problem here.
+**Suggested correction (optional)**
+If you know what it should say instead, put it here. If not, that's fine, someone else can turn
+this into an edit.

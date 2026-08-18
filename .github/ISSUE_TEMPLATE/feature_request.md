@@ -1,19 +1,14 @@
 ---
-name: Feature request
-about: Suggest an idea or improvement for Quartz
+name: New page or section
+about: Suggest a topic, page, or track this wiki is missing
 title: ""
 labels: enhancement
 assignees: ""
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**What's missing**
+A clear description of the topic or gap, e.g. "no page on unmoderated caucus lobbying tactics" or
+"the chair track hasn't been started yet."
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
-
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Why it matters**
+Who would this help, and what would they be able to do that they can't today.
