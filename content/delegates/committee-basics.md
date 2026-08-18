@@ -32,8 +32,7 @@ This is the first real decision the committee makes together, and it sets the sh
 that follows:
 
 **Roll call → set the agenda → formal debate ([[speeches-and-the-gsl|the GSL]]), interspersed with
-[[caucusing|caucuses]] and other [[motions|motions]] → [[working-papers-and-resolutions|draft
-resolution]] introduction → [[amendments|amendments]] → [[voting-procedure|voting]] → adjournment.**
+[[caucusing|caucuses]] and other [[motions|motions]] → [[working-papers-and-resolutions|draft resolution]] introduction → [[amendments|amendments]] → [[voting-procedure|voting]] → adjournment.**
 
 ---
 
