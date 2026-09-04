@@ -6,8 +6,7 @@ title: Credits
 
 This wiki is built on [Quartz](https://quartz.jzhao.xyz/), the static site generator originally
 created by [Jacky Zhao](https://jzhao.xyz/) and maintained by an open source community. The
-seedling is Quartz's own mark, not ours, we borrowed it here because without Quartz there wouldn't
-be a wiki to write content for.
+seedling is Quartz's own mark, not ours, we borrowed it here because without Quartz there wouldn't be a wiki to write content for.
 
 ## Software
 
@@ -24,6 +23,7 @@ The [[delegates/overview|delegate track]] was researched against established MUN
 guides (Best Delegate, NHSMUN, THIMUN, and university conference Rules of Procedure documents)
 rather than written from memory, since procedure genuinely varies conference to conference and
 getting that wrong would defeat the point of the wiki.
+I (Paul Taechauakarakul) also summarized and am the current moderator of the wiki, reviewing all of the contents within it.
 
 ## Design
 

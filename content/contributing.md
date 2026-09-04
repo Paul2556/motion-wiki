@@ -2,8 +2,7 @@
 title: Contributing
 ---
 This wiki is open to anyone who wants to improve it: delegates, chairs, and anyone who's spent
-enough time in committee to know where the existing pages get something wrong, out of date, or
-just unclear.
+enough time in committee to know where the existing pages get something wrong, out of date, or just unclear.
 
 ## What's worth contributing
 
